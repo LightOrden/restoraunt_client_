@@ -1,0 +1,12 @@
+.register-container {
+    font-family: 'Arial', sans-serif;
+  }
+.register-container img {
+    max-width: 80%;
+    border-radius: 10px;
+}
+.login-container img {
+    max-width: 80%; 
+    border-radius: 10px; 
+}
+  
